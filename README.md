@@ -1,0 +1,2 @@
+# Image-Quality-Evaluation
+In multi-center clinical trials, attribute-based quality evaluation is one of the quality control proceedures to assess, normalize and standardize the diagnostic information contained in medical image data from different imaging system manufacturers, different clinical trial sites, and different acquisition protocols before they are fed to automated image analysis systems.
